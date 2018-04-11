@@ -9,3 +9,7 @@ Build
 Run
 
 0. npm run dev
+
+License
+
+MIT
